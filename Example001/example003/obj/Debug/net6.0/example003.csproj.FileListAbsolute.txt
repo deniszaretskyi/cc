@@ -1,0 +1,16 @@
+C:\Users\denza\Desktop\C#2\Example001\example003\bin\Debug\net6.0\example003.exe
+C:\Users\denza\Desktop\C#2\Example001\example003\bin\Debug\net6.0\example003.deps.json
+C:\Users\denza\Desktop\C#2\Example001\example003\bin\Debug\net6.0\example003.runtimeconfig.json
+C:\Users\denza\Desktop\C#2\Example001\example003\bin\Debug\net6.0\example003.dll
+C:\Users\denza\Desktop\C#2\Example001\example003\bin\Debug\net6.0\ref\example003.dll
+C:\Users\denza\Desktop\C#2\Example001\example003\bin\Debug\net6.0\example003.pdb
+C:\Users\denza\Desktop\C#2\Example001\example003\obj\Debug\net6.0\example003.GlobalUsings.g.cs
+C:\Users\denza\Desktop\C#2\Example001\example003\obj\Debug\net6.0\example003.csproj.AssemblyReference.cache
+C:\Users\denza\Desktop\C#2\Example001\example003\obj\Debug\net6.0\example003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denza\Desktop\C#2\Example001\example003\obj\Debug\net6.0\example003.AssemblyInfoInputs.cache
+C:\Users\denza\Desktop\C#2\Example001\example003\obj\Debug\net6.0\example003.AssemblyInfo.cs
+C:\Users\denza\Desktop\C#2\Example001\example003\obj\Debug\net6.0\example003.csproj.CoreCompileInputs.cache
+C:\Users\denza\Desktop\C#2\Example001\example003\obj\Debug\net6.0\example003.dll
+C:\Users\denza\Desktop\C#2\Example001\example003\obj\Debug\net6.0\ref\example003.dll
+C:\Users\denza\Desktop\C#2\Example001\example003\obj\Debug\net6.0\example003.pdb
+C:\Users\denza\Desktop\C#2\Example001\example003\obj\Debug\net6.0\example003.genruntimeconfig.cache
